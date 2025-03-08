@@ -3,8 +3,8 @@ let users = [
     {
         username: "admin",
         password: "admin123",
-        expiration: new Date("2025-02-31").getTime(),
-        notificationDate: new Date("2025-02-20").getTime()
+        expiration: new Date("2025-05-31").getTime(),
+        notificationDate: new Date("2025-03-20").getTime()
     },
 {
         username: "kdabra",
