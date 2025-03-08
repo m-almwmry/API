@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const exchangeRate = 560;
     const serviceRates = {
         
-        "شحن يويو": { costPerUnit: 0.000787, suggestedPerUnit: 0.000848 },
+        "شحن يويو": { costPerUnit: 0.00075178, suggestedPerUnit: 0.00080441071 },
                "شحن تيك توك": { costPerUnit: 0.01186, suggestedPerUnit: 0.01275 },
         "زينا لايف": { costPerUnit: 0.0005, suggestedPerUnit: 0.0006 },
         "شحن يوهو": { costPerUnit: 0.0001079, suggestedPerUnit: 0.0001104 },
