@@ -7,22 +7,10 @@ let users = [
         notificationDate: new Date("2025-03-20").getTime()
     },
 {
-        username: "kdabra",
-        password: "admin123",
-        expiration: new Date("2025-05-31").getTime(),
-        notificationDate: new Date("2025-02-20").getTime()
-    },
-{
-        username: "bcard",
-        password: "771795306",
-        expiration: new Date("2025-05-31").getTime(),
-        notificationDate: new Date("2026-02-23").getTime()
-    },
-{
-        username: "sadam",
-        password: "778221128",
-        expiration: new Date("2025-05-31").getTime(),
-        notificationDate: new Date("2026-02-23").getTime()
+        username: "1Click-pay",
+        password: "Admin+733544937",
+        expiration: new Date("2025-03-31").getTime(),
+        notificationDate: new Date("2025-03-9").getTime()
     },
 
 
